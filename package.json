@@ -2,11 +2,11 @@
   "name": "light-theme-with-bars",
   "displayName": "Light theme with bars",
   "description": "Light theme with bars",
-  "publisher": "gyuha shin",
+  "publisher": "nicegyuha",
   "maintainers": [
     "gyuha <nicegyuha@gmail.com>"
   ],
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.88.0"
   },
@@ -35,5 +35,9 @@
         "path": "./themes/light-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "packaging": "npx vsce package",
+    "publish": "npx vsce publish"
   }
 }

@@ -3,6 +3,6 @@
 Light Theme with bars
 </h1>
 <p align=center>
-Light theme with dark bars <br/><br/>
+Visual Studio Code Light theme with dark bars <br/><br/>
 <img alt="Light Theme with bars preview" src="images/preview.png" />
 </p>
