@@ -1,0 +1,21 @@
+{
+  "name": "light-theme-with-bars",
+  "displayName": "Light theme with bars",
+  "description": "Light theme with bars",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Light theme with bars",
+        "uiTheme": "vs",
+        "path": "./themes/light-theme.json"
+      }
+    ]
+  }
+}
