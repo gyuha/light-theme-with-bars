@@ -2,13 +2,31 @@
   "name": "light-theme-with-bars",
   "displayName": "Light theme with bars",
   "description": "Light theme with bars",
+  "publisher": "gyuha shin",
+  "maintainers": [
+    "gyuha <nicegyuha@gmail.com>"
+  ],
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.88.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gyuha/light-theme-with-bars"
+  },
+  "bugs": {
+    "url": "https://github.com/gyuha/light-theme-with-bars/issues"
+  },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "light",
+    "bar",
+    "modern",
+    "colorful"
+  ],
+  "icon": "images/icon.png",
   "contributes": {
     "themes": [
       {
