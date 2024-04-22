@@ -987,7 +987,7 @@
       "name": "illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#6f6161"
       }
     },
     {
@@ -1001,21 +1001,21 @@
       "name": "Broken",
       "scope": "invalid.broken",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#6f6161"
       }
     },
     {
       "name": "Deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#6f6161"
       }
     },
     {
       "name": "Unimplemented",
       "scope": "invalid.unimplemented",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#6f6161"
       }
     },
     {
@@ -1651,7 +1651,7 @@
       "name": "language operators like '+', '-' etc",
       "scope": ["constant.other.color.rgb-value.xi"],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#9d9ca1"
       }
     },
     {
@@ -1876,9 +1876,9 @@
     "badge.background": "#eaeaea",
     "badge.foreground": "#808080",
     "terminal.foreground": "#000000",
-    "terminal.selectionBackground": "#c7c7c73c",
-    "terminalCursor.background": "#0087ff",
-    "terminalCursor.foreground": "#ffffff",
+    "terminal.selectionBackground": "#c7c7c7c",
+    "terminalCursor.background": "#ffffff",
+    "terminalCursor.foreground": "#000000",
     "terminal.border": "#80808059",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiBlue": "#0072f0",
