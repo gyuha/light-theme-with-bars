@@ -4,6 +4,9 @@ All notable changes to the "light-theme-with-bars" extension will be documented 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.1.3] - 2025-07-21
+- Added MIT License file
+
 ## [0.1.2] - 2025-07-21
 - Fixed terminal selection background color issue
 - Improved color consistency
