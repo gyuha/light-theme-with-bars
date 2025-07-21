@@ -1694,7 +1694,6 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#9d9ca1"
       }
     },
@@ -1729,7 +1728,6 @@
       "name": "comment",
       "scope": "comment.line.double-slash,comment.block.documentation",
       "settings": {
-        "fontStyle": "italic"
       }
     },
     {
@@ -1767,7 +1765,7 @@
     "list.inactiveSelectionForeground": "#4b4b4b",
     "list.hoverBackground": "#d8d8d8",
     "list.hoverForeground": "#616161",
-    "list.activeSelectionBackground": "#9b9b9b",
+    "list.activeSelectionBackground": "#d9d9d9",
     "list.activeSelectionForeground": "#ffffff",
     "tree.indentGuidesStroke": "#a9a9a9",
     "list.dropBackground": "#dbdbdb",
@@ -1845,7 +1843,7 @@
     "editorIndentGuide.activeBackground1": "#939393",
     "editorRuler.foreground": "#d3d3d3",
     "editorBracketMatch.background": "#0064001a",
-    "editorBracketMatch.border": "#b9b9b9",
+    "editorBracketMatch.border": "#d9d9d9",
     "editor.foldBackground": "#add6ff4d",
     "editorOverviewRuler.background": "#25252500",
     "editorOverviewRuler.border": "#7f7f7f4d",
@@ -1876,7 +1874,7 @@
     "badge.background": "#eaeaea",
     "badge.foreground": "#808080",
     "terminal.foreground": "#000000",
-    "terminal.selectionBackground": "#c7c7c7c",
+    "terminal.selectionBackground": "#bcd7f0",
     "terminalCursor.background": "#ffffff",
     "terminalCursor.foreground": "#000000",
     "terminal.border": "#80808059",
