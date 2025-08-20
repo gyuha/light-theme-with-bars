@@ -4,6 +4,14 @@ All notable changes to the "light-theme-with-bars" extension will be documented 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.1.4] - 2025-08-20
+- Improved text selection visibility - added darker foreground color for selected text
+- Enhanced word highlighting with distinct colors for better differentiation:
+  - Selection highlight: Blue-gray with border
+  - Word highlight: Light pink background  
+  - Strong word highlight: Light yellow background
+- Better visual distinction between selected text and highlighted words
+
 ## [0.1.3] - 2025-07-21
 - Added MIT License file
 
