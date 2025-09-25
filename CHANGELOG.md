@@ -4,6 +4,10 @@ All notable changes to the "light-theme-with-bars" extension will be documented 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.1.5] - 2025-09-25
+- Made selection & word highlight backgrounds fully transparent (kept borders) for cleaner look
+- Removed previous light red / yellow fill behind word highlights
+
 ## [0.1.4] - 2025-08-20
 - Improved text selection visibility - added darker foreground color for selected text
 - Enhanced word highlighting with distinct colors for better differentiation:
